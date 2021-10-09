@@ -41,6 +41,11 @@ main{
     background-color: #fafafa;
 }
 
+#attendance_float:hover{
+    background-color: #dcdcdc;
+    color: #a4a4a4;
+}
+
 #topic_list{
     display: inline-block;
 }
@@ -80,4 +85,20 @@ main{
     margin: 1px 4px 1px;
     background-color: #FCD29F;
     padding: 1px;
+}
+
+@media screen{
+body{
+    color: #020202;
+}
+}
+
+.form_button:active{
+    background-color: #dd30dd;
+}
+
+footer{
+    position: relative;
+    margin-left: 10%;
+    padding-left: 10%;
 }
