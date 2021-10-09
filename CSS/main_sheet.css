@@ -2,3 +2,15 @@ body{
     /*IDK if these fonts are even commonly available lol they're on Google Docs all the time */
     font-family: Calibri, Roboto;
 }
+
+#title_box{
+    color: #309fff;
+    border-width: 5px;
+    border-style: solid;
+    border-style: none none solid none;
+    border-color: #7FD8BE;
+    position: relative;
+    left: 20%;
+    width: 60%;
+    text-align: center;
+}
